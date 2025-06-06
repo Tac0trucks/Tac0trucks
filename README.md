@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel Constantine L. Abaincia
 - 👀 I’m interested in Fullstack development.
-- 🌱 I’m currently learning C, C++, HTML, CSS, Javascript.
+- 🌱 I’m currently learning C, C++, HTML, CSS, Javascript and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
